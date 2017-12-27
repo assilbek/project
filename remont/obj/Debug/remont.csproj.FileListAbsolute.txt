@@ -1,0 +1,14 @@
+C:\Users\мвви\source\repos\remont\remont\bin\Debug\remont.exe.config
+C:\Users\мвви\source\repos\remont\remont\bin\Debug\remont.exe
+C:\Users\мвви\source\repos\remont\remont\bin\Debug\remont.pdb
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.csprojResolveAssemblyReference.cache
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.Form1.resources
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.Properties.Resources.resources
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.csproj.GenerateResource.Cache
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.csproj.CoreCompileInputs.cache
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.exe
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.pdb
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.author.resources
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.avtoriz.resources
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.regis.resources
+C:\Users\мвви\source\repos\remont\remont\obj\Debug\remont.menu.resources
